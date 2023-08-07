@@ -77,7 +77,8 @@ Many tools are available.
 
 ## Rate on Microsoft Store as of 5/23/2022
 
-![Microsoft Store rate](/assets/ms-store-rate.png)
+![Microsoft Store rate](/assets/ms-store-rate.png)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhyeshin3%2FDevToys.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhyeshin3%2FDevToys?ref=badge_shield)
+
 
 ## How to install (as an end-user)
 
@@ -175,6 +176,9 @@ See [ThirdPartyNotices](THIRD-PARTY-NOTICES.md)
 ## License
 
 See [LICENSE](LICENSE.md)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhyeshin3%2FDevToys.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhyeshin3%2FDevToys?ref=badge_large)
 
 ### A few words regarding the license
 
